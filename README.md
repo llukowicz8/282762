@@ -19,13 +19,13 @@ Co trzeba zrobić
   9. `bin/test projects/sample` - żeby wykonać jego testy (patrz niżej).
  10. Założyć repozytorium (swoje lub grupowe), najlepiej w podkatalogu `projects`.
  11. Przejrzeć zadania i odpowiadające im testy i coś sobie wybrać.
- 12. Zapisać się na listę (TODO: jaka lista?) podając:
+ 12. Zapisać się na listę (link gdzie indziej) podając:
      * swój adres e-mail w domenie *.agh.edu.pl*,
      * imię, nazwisko, numer indeksu, grupę dziekańską,
      * link do repozytorium Git
      * i wybrane zadanie.
  13. Doprowadzić projekt do postaci, w której będzie przechodził właściwe dla niego testy.
- 14. Będąc gotowym lub mając pytania, napisać maila na podolski@agh.edu.pl.
+ 14. Będąc gotowym lub mając pytania, napisać maila na mój adres e-mail.
 
 
 Projekty i testy
