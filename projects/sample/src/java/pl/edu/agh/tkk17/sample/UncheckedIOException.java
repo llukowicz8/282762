@@ -8,4 +8,5 @@ public class UncheckedIOException extends OutputableException
     {
         super(message, cause);
     }
+
 }
